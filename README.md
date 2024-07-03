@@ -1,1 +1,1 @@
-# server-sent-events-with-fastapi
+# Server Sent Events with FastAPI
